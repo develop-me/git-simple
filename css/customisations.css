@@ -1,13 +1,16 @@
 h1, h2, h3 {
-    color:  turquoise;
+    color:  rebeccapurple;
+}
+
+p{
+    color: black;
 }
 
 button {
     background-color: turquoise;
 }
-
 body {
-    background-color: tomato;  
+    background: peachpuff;
 }
 
 .featurette-image {
