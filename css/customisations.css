@@ -21,7 +21,6 @@ body {
     background-color: violet;
 }
 
-.featurette-divider {
-   border-width: 5px;
-   border-color: black;
+.test {
+    color:000000;
 }
