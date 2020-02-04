@@ -9,5 +9,8 @@ body {
 .featurette-image {
    margin: auto;
    width: 50%;
+}
 
+.btn {
+    background-color: violet;
 }
