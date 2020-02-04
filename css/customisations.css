@@ -1,7 +1,5 @@
-/* put your page styling customisations here! */
-
-p {
-    font-family: 'Courier New', Courier, monospace;
+h1, h2, h3 {
+    color:  turquoise;
 }
 
 h2 {
@@ -13,7 +11,21 @@ button {
 }
 
 body {
+<<<<<<< HEAD
+    background-color: tomato;  
+}
+
+.featurette-image {
+   margin: auto;
+   width: 50%;
+}
+
+.btn {
+    background-color: violet;
+}
+=======
     background-color: peachpuff;
     text-transform: uppercase;
 }
 
+>>>>>>> f862924e6860f4e7c8ca21e5501a348b406e5b1a
