@@ -1,19 +1,20 @@
-/* put your page styling customisations here! */
-
-p {
-    font-family: 'Courier New', Courier, monospace;
-}
-
-h2 {
-    color: black;
+h1, h2, h3 {
+    color:  turquoise;
 }
 
 button {
-    background-color: lemonchiffon;
+    background-color: turquoise;
 }
 
 body {
-    background-color: peachpuff;
-    text-transform: uppercase;
+    background-color: tomato;  
 }
 
+.featurette-image {
+   margin: auto;
+   width: 50%;
+}
+
+.btn {
+    background-color: violet;
+}
