@@ -1,5 +1,5 @@
 h1, h2, h3 {
-    color:  rebeccapurple;
+    color:  black;
 }
 
 p{
@@ -7,11 +7,11 @@ p{
 }
 
 button {
-    background-color: turquoise;
+    background-color: grey;
 }
 body {
 
-    background: peachpuff;
+    background: whitesmoke;
 }
 
 .featurette-image {
@@ -22,7 +22,7 @@ body {
 }
 
 .btn {
-    background-color: violet;
+    background-color: tan;
 }
 
 * {cursor: url(http://cur.cursors-4u.net/nature/nat-10/nat927.ani), url(http://cur.cursors-4u.net/nature/nat-10/nat927.png), auto !important;} 
