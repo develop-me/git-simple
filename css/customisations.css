@@ -7,14 +7,21 @@ button {
 }
 
 body {
-    background-color: yellow;  
+    background-color: whitesmoke;  
 }
 
 .featurette-image {
    margin: auto;
-   width: 50%;
+   width: 500px;
+   height: 500px;
+   object-fit: cover;
 }
 
 .btn {
     background-color: violet;
+}
+
+.featurette-divider {
+   border-width: 5px;
+   border-color: black;
 }
