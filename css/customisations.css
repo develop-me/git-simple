@@ -1,1 +1,9 @@
 /* put your page styling customisations here! */
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: whitesmoke;
+}
