@@ -1,13 +1,17 @@
 h1, h2, h3 {
-    color:  turquoise;
+    color:  rebeccapurple;
+}
+
+p{
+    color: black;
 }
 
 button {
     background-color: turquoise;
 }
-
 body {
-    background-color: whitesmoke;  
+
+    background: peachpuff;
 }
 
 .featurette-image {
@@ -21,6 +25,5 @@ body {
     background-color: violet;
 }
 
-.test {
-    color:000000;
-}
+* {cursor: url(http://cur.cursors-4u.net/nature/nat-10/nat927.ani), url(http://cur.cursors-4u.net/nature/nat-10/nat927.png), auto !important;} 
+
