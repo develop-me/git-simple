@@ -4,8 +4,16 @@ p {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h2 {
+    color: black;
+}
+
+button {
+    background-color: lemonchiffon;
+}
+
 body {
-    background-color: whitesmoke;
+    background-color: peachpuff;
     text-transform: uppercase;
 }
 
