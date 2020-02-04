@@ -2,16 +2,11 @@ h1, h2, h3 {
     color:  turquoise;
 }
 
-h2 {
-    color: black;
-}
-
 button {
-    background-color: lemonchiffon;
+    background-color: turquoise;
 }
 
 body {
-<<<<<<< HEAD
     background-color: tomato;  
 }
 
@@ -23,9 +18,3 @@ body {
 .btn {
     background-color: violet;
 }
-=======
-    background-color: peachpuff;
-    text-transform: uppercase;
-}
-
->>>>>>> f862924e6860f4e7c8ca21e5501a348b406e5b1a
