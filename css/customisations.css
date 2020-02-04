@@ -5,3 +5,9 @@ h1, h2, h3 {
 body {
     background-color: tomato;  
 }
+
+.featurette-image {
+   margin: auto;
+   width: 50%;
+
+}
