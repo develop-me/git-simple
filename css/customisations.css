@@ -1,1 +1,20 @@
-/* put your page styling customisations here! */
+h1, h2, h3 {
+    color:  turquoise;
+}
+
+button {
+    background-color: turquoise;
+}
+
+body {
+    background-color: tomato;  
+}
+
+.featurette-image {
+   margin: auto;
+   width: 50%;
+}
+
+.btn {
+    background-color: violet;
+}
