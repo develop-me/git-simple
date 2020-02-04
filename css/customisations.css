@@ -1,1 +1,7 @@
-/* put your page styling customisations here! */
+h1, h2, h3 {
+    color:  turquoise;
+}
+
+body {
+    background-color: tomato;  
+}
