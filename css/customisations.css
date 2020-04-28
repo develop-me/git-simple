@@ -14,7 +14,7 @@ p{
     display: none;
 }
 
-button {
+button { 
     background-color: grey;
 }
 body {
@@ -35,3 +35,24 @@ body {
 
 * {cursor: url(http://cur.cursors-4u.net/nature/nat-10/nat927.ani), url(http://cur.cursors-4u.net/nature/nat-10/nat927.png), auto !important;} 
 
+.shrek-cage {
+    object-fit: cover;
+    border-radius: 25%;
+    margin-top: 2vw;
+}
+
+.shrek-container {
+    text-align: center;
+}
+
+.shrek-container > h2 {
+    margin: 2vw;
+}
+
+.shrek-container > p {
+    margin: 2vw;
+}
+
+.team-title {
+    font-size: 5rem;
+}
