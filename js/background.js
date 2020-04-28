@@ -12,7 +12,7 @@
       // work out the hue by dividing by the height
       // and multiplying by 360
       // will give a value between 0 and 360
-      let hue = Math.round((current / height) * 36);
+      let hue = Math.round((current / height) * 360);
       // set the body background colour
       d.body.style.backgroundColor = "hsl(" + hue + ",50%,50%)";
   };
