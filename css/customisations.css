@@ -2,6 +2,7 @@
 
 h1{
    font-size:2rem; 
+   background-color: red;
 }
 body{
    background-color: rgb(3, 3, 3);
