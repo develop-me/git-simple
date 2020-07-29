@@ -4,14 +4,14 @@ h1{
    font-size:2rem; 
 }
 body{
-   background-color: rgb(3, 3, 3);
+   background-color: red;
    animation-name: disco;
    animation-duration: 2s;
    animation-iteration-count: 60;
    animation-timing-function: ease;
 }
 @keyframes disco {
-   0%   {background-color: red;}
+   
    33%  {background-color: blue;}
    66% {background-color: green;}
  }
