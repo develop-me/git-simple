@@ -15,3 +15,14 @@ body{
    33%  {background-color: blue;}
    66% {background-color: green;}
  }
+
+ #main {
+   position: relative;
+}
+
+#follow {
+   height: 100px;
+   position: absolute;
+   width: 100px;
+   border-radius: 50%;
+}
