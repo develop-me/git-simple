@@ -1,7 +1,11 @@
 body {
-    background-color: red !important;
+	background-color: hotpink !important;
 }
 
-footer{
-    background-color: red;
+footer {
+	background-color: red;
+}
+
+.navbar-brand {
+	background-color: hotpink;
 }
